@@ -1,2 +1,2 @@
 # Flagle-Remake-on-Python
-This is a guess the flag game, a remake of the popular browser game called Flagle.
+remake of the browser game called flagle but on python. (probably terrible code but it works so it's allg)
